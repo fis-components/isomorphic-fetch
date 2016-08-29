@@ -6,7 +6,7 @@
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
-        "whatwg-fetch": "^0.8.2"
+        "whatwg-fetch": ">=0.10.0"
     },
-    "version": "2.2.0"
+    "version": "2.2.1"
 }
