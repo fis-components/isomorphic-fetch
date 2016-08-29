@@ -5,8 +5,6 @@
     "main": "npm-client.js",
     "tag": "master",
     "reposType": "npm",
-    "dependencies": {
-        "whatwg-fetch": "^0.8.2"
-    },
-    "version": "2.1.0"
+    "dependencies": {},
+    "version": "2.1.1"
 }
