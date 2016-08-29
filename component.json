@@ -1,0 +1,12 @@
+{
+    "name": "isomorphic-fetch",
+    "description": "Isomorphic WHATWG Fetch API, for Node & Browserify",
+    "repos": "https://github.com/matthew-andrews/isomorphic-fetch.git",
+    "main": "npm-client.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "whatwg-fetch": "^0.8.2"
+    },
+    "version": "2.1.0"
+}
